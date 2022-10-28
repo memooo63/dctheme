@@ -20,12 +20,12 @@ button {
 	--font-display: var(--font-primary) !important;
 	/* Dark Matter Variables */
 	--avatar-size: 32px;
-	--background-image: url('https://i.imgur.com/7SbtKvw.png');
-	--home-image: url('https://i.imgur.com/233d55Y.gif');
+	--background-image: url('https://i.pinimg.com/originals/e1/a7/0c/e1a70c1fcee7c4f1b1c5daf4d7733088.gif');
+	--home-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Coat_of_arms_of_the_Ottoman_Empire_%281882%E2%80%931922%29.svg/290px-Coat_of_arms_of_the_Ottoman_Empire_%281882%E2%80%931922%29.svg.png');
 	--background-solid: #161921;
 	--background-solid-dark: #101218;
 	--background-solid-darker: #0c0e12;
-	--accent: 37, 172, 232;
+	--accent: 0, 172, 0;
 	--accent-alt: 29, 101, 134;
 	--black: 0, 0, 0;
 	--white: 255, 255, 255;
@@ -47,8 +47,8 @@ button {
 	--background-floating: var(--background-solid);
 	--background-secondary: var(--background-solid);
 	--background-accent: var(--background-solid);
-	--background-message-hover: rgba(var(--black), 0.4);
-	--channeltextarea-background: transparent;
+	--background-message-hover: #ffffff29;
+	--channeltextarea-background: #ffffff29;
 	--activity-card-background: rgba(var(--white), 0.05);
 	--deprecated-store-bg: transparent;
 	--background-modifier-hover: rgba(var(--black), 0.3);
